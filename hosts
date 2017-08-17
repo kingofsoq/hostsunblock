@@ -25,8 +25,8 @@
 104.156.85.217    vimeo.com
 23.214.58.223     secure-c.vimeocdn.com
 74.113.233.128    developer.vimeo.com
-23.235.43.143     i.vimeocdn.com
-23.235.43.143     f.vimeocdn.com
+#23.235.43.143     i.vimeocdn.com
+#23.235.43.143     f.vimeocdn.com
 80.239.137.98     a.vimeocdn.com
 104.156.81.217    player.vimeo.com
 23.235.43.249     vimeo-hp-videos.global.ssl.fastly.net
